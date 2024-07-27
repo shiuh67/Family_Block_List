@@ -22,7 +22,7 @@ https://phishstats.info/
 https://www.phishtank.com/
 
 AdGuard Home, AdGuard, Pi-hole, AdAway
-
+有問題請開issues討論
 --------------------------------------------------------------------------------------------
 
 以純網域模式列表
