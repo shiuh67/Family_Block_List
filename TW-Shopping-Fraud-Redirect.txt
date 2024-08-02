@@ -1,9 +1,9 @@
 ! [165詐騙警訊連結]
 ! Title: shiuh67 TAIWAN 165 Anti Fraud Redirect
-! # Date: 20240730_120442
+! # Date: 20240803_001740
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：300
+! 網域阻擋列表數目：338
 ! 阻擋 數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單 來源:政府資料開放平台
 ! https://data.gov.tw/dataset/165027
 ! 
@@ -15,6 +15,7 @@
 ||jnhr.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||twcatea.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tradeneupro.co^$dnsrewrite=NOERROR;A;34.102.218.71
+||acmsre.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aecisu.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aiusne.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amioke.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -26,6 +27,8 @@
 ||www.bookstore-tw.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||boutique-shop4.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ccxybr.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||cniusrt.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||cokst.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||comeinpc24.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||coupangtw.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cqddzz.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -40,9 +43,11 @@
 ||fisaen.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gaschai.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gimtsu.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||girtod.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hauots.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hiseud.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hmtoad.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||jeksvt.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||justfunpc24.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||letang888.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||web.mallonlinebooks.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -51,6 +56,7 @@
 ||momoow.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||momoshopasian.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||m.momoshopn.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||msoitu.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||namgaju.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nugatfy.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||onlytoppc24.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -59,6 +65,7 @@
 ||qeermn.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qsoern.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rakutenccb.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||rakutenht.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rakutennk.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rakutenow.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.rakutenpshop.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -68,9 +75,15 @@
 ||rakutenxk.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.readbooks-store.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.readbooksshop.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||sauiet.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sharefunpc24.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopingbooksmall.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.shopingbooksmall.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopmallbooks.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.shopmallbooks.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.shoppingbooksstorec.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||skitrse.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||sveint.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tf-tw.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tfiuso.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tisoue.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -82,6 +95,8 @@
 ||weistr.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wimvts.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xuiosn.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopeeta.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
+||tw83.shopeeta.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ksaxr.fun^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mmoos-p.fun^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.ink^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -95,6 +110,8 @@
 ||dvrtggg.ink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dvrthhh.ink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dvrtjjj.ink^$dnsrewrite=NOERROR;A;34.102.218.71
+||dvrtkkk.ink^$dnsrewrite=NOERROR;A;34.102.218.71
+||dvrtmmm.ink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dvrtnnn.ink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dvrtvvv.ink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nansha.life^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -121,6 +138,7 @@
 ||linegames.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.pub^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.red^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopeeta.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||0zkoahs.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||adsdf.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.afrileadw.shop^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -144,6 +162,7 @@
 ||lekebaihuo.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lishenacc.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mmntsu.shop^$dnsrewrite=NOERROR;A;34.102.218.71
+||mojiaqi.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tw.myrastone.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.npwalterja.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ouyh.shop^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -162,6 +181,7 @@
 ||www.yawhehe.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yfdnrw.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yusq.shop^$dnsrewrite=NOERROR;A;34.102.218.71
+||yuzhiqq.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.dfjhdxfjish.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hanwu.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ru.bhuies.store^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -169,6 +189,7 @@
 ||dcvhrth.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dfeq.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dfwi.store^$dnsrewrite=NOERROR;A;34.102.218.71
+||duior.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||etgfd.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fdsbbb.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fwqe.store^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -184,9 +205,11 @@
 ||qsyt.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rutb.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||setw.store^$dnsrewrite=NOERROR;A;34.102.218.71
+||uitr.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uwgc.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wdgp.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yuuc.store^$dnsrewrite=NOERROR;A;34.102.218.71
+||zglu.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.tech^$dnsrewrite=NOERROR;A;34.102.218.71
 ||actob.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amxis.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -197,19 +220,25 @@
 ||beauchamp.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||betos.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||beuis.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||biksu.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||bituc.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bsiat.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bzvse.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cedsk.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||ceysa.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cikor.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cinae.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||colarese.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cosru.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ctueo.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cvezs.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||cvsnd.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cvstu.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dcfrgg.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dcire.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dcolaresearch.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||deica.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dreif.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||druis.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dsare.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -219,6 +248,7 @@
 ||easor.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ebnis.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ecnea.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||ehivr.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eisda.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||emord.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||esick.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -267,6 +297,7 @@
 ||pocxs.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qnuis.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xtw.qunfcar.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||raiue.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reimx.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reois.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||resik.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -276,11 +307,13 @@
 ||semru.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||seyor.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sneiu.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||snvcd.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sombe.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||srdat.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sudok.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||svmia.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||szzlsz.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.szzlsz.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tabsm.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tceuk.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tosru.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -289,6 +322,7 @@
 ||usieo.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vnocs.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vsoic.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||wetra.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xotir.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yaius.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zcoed.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -307,4 +341,8 @@
 ||cinzia.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dcfrgg.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||gebqwzo.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.gebqwzo.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ni.okjhsa.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopeelem.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||tw06.shopeelem.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
