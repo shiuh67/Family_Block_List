@@ -1,9 +1,9 @@
 ! [165詐騙警訊連結]
 ! Title: shiuh67 TAIWAN 165 Anti Fraud Redirect
-! # Date: 20240807_123109
+! # Date: 20240807_133822
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：343
+! 網域阻擋列表數目：344
 ! 阻擋 數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單 來源:政府資料開放平台
 ! https://data.gov.tw/dataset/165027
 ! 
@@ -15,6 +15,7 @@
 ||jnhr.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||twcatea.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tradeneupro.co^$dnsrewrite=NOERROR;A;34.102.218.71
+||24newsudn.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||acmsre.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aecisu.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aiusne.com^$dnsrewrite=NOERROR;A;34.102.218.71
