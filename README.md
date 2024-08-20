@@ -37,7 +37,7 @@
 
 ----------------------------------------------------------------
 ## 統計資訊
-- Date: 20240820_170552
+- Date: 20240820_170827
 
 - 賭博網站 清單: 2978 條記錄
 - 賭博部落格 清單: 896 條記錄
@@ -59,12 +59,12 @@
 ----------------------------------------------------------------
 
 ## 清單連結
-|     清單一覽    | OpenPhish 釣魚網址列表                                    | phishstats 釣魚網址列表                                   | phishtank 釣魚網址列表                                           |PhishFort 釣魚網址列表                                           |
-| -------------- | -------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| domains        | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-domains.txt) |
-| hosts          | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-host.txt) |
-| AdGuard        | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-AdGuard.txt) |
-| Redirect       | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-Redirect.txt) |
+|     清單一覽    | 賭博及詐騙綜合清單                                          | 165反詐騙網站清單                                          | 一頁式詐騙清單                                   |賭博部落格列表                                             |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| domains        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| hosts          | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| AdGuard        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| Redirect       | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
 ----------------------------------------------------------------
 
 ## 其他資訊
