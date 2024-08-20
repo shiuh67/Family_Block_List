@@ -37,7 +37,7 @@
 
 ----------------------------------------------------------------
 ## 統計資訊
-- Date: 20240820_170827
+- Date: 20240820_171141
 
 - 賭博網站 清單: 2978 條記錄
 - 賭博部落格 清單: 896 條記錄
@@ -49,17 +49,31 @@
 - PhishFort 釣魚網站 清單: 99709 條記錄
 - 整合後 釣魚、賭博、詐欺網站 清單: 201308 條記錄
 
-## 清單連結1
+## 清單連結 賭博及詐騙
 |     清單一覽    | 賭博及詐騙綜合清單                                          | 165反詐騙網站清單                                          | 一頁式詐騙清單                                   |賭博部落格列表                                             |
 | -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
-| domains        | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling-Domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-domains.txt) |
-| hosts          | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling_Host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-host.txt) |
-| AdGuard        | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-AdGuard.txt) |
-| Redirect       | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-Redirect.txt) |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| domains        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| hosts          | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| AdGuard        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| Redirect       | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
 ----------------------------------------------------------------
 
-## 清單連結
+## 其他資訊
+
+## 清單連結 
 |     清單一覽    | 賭博及詐騙綜合清單                                          | 165反詐騙網站清單                                          | 一頁式詐騙清單                                   |賭博部落格列表                                             |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| domains        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| hosts          | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| AdGuard        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+| Redirect       | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
+----------------------------------------------------------------
+
+## 清單連結 總和
+|     清單一覽    | 賭博及詐騙綜合清單                                          | 165反詐騙網站清單                                          | 一頁式詐騙清單                                   |賭博部落格列表                                             |
+| -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | -------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
 | domains        | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
 | hosts          | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() | [訂閱連結]() |
