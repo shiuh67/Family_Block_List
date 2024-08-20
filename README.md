@@ -22,7 +22,7 @@
 ----------------------------------------------------------------
 ### 資料來源
 - [165反詐騙網站清單](https://data.gov.tw/dataset/160055)
-- [數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單](https://data.gov.tw/dataset/165027)
+- [一頁式詐騙清單](https://data.gov.tw/dataset/165027)
 - [OpenPhish 釣魚網址列表](https://openphish.com)
 - [phishstats 釣魚網址列表](https://phishstats.info/)
 - [phishtank 釣魚網址列表](https://www.phishtank.com/)
@@ -37,18 +37,24 @@
 
 ----------------------------------------------------------------
 ## 統計資訊
-- Date: 20240820_063059
+- Date: 20240820_090942
 
 - 賭博網站: 2978 條記錄
 - 賭博部落格: 896 條記錄
 - 165詐騙清單: 16689 條記錄
 - 一頁式詐騙清單: 343 條記錄
-- OpenPhish 釣魚網站 清單: 16003 條記錄
-- phishstats 釣魚網站 清單: 52315 條記錄
-- phishtank 釣魚網站 清單: 59243 條記錄
-- PhishFort 釣魚網站 清單: 99702 條記錄
-- 整合後 釣魚、賭博、詐欺網站 清單: 200592 條記錄
+- OpenPhish 釣魚網站 清單: 16160 條記錄
+- phishstats 釣魚網站 清單: 52404 條記錄
+- phishtank 釣魚網站 清單: 59909 條記錄
+- PhishFort 釣魚網站 清單: 99703 條記錄
+- 整合後 釣魚、賭博、詐欺網站 清單: 201127 條記錄
 
+|     清單一覽    | 賭博及詐騙綜合清單                                          | 165反詐騙網站清單                                          | 一頁式詐騙清單                                   | OpenPhish 釣魚網址列表                                    | phishstats 釣魚網址列表                                   | phishtank 釣魚網址列表                                           |PhishFort 釣魚網址列表                                           |賭博部落格列表                                             |
+| -------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | -------------------------------------------------------- | ----------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- | ---------------------------------------------------- |
+| 純網域            | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling-Domains.txt)     | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-domains.txt)     | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-domains.txt)     | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-domains.txt)     | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-domains.txt)     | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-domains.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-domains.txt) |
+| hosts          | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling_Host.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-host.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-host.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-host.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-host.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-host.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-host.txt) |
+| Adblock 語法    | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling-AdGuard.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-AdGuard.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-AdGuard.txt) |
+| 轉寫165        | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Fraud-and-Gambling-Redirect.txt)   | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-165-Anti-Fraud-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/TW-Shopping-Fraud-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/OpenPhish-Phishing-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishstats-Phishing-Blacklists-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/PhishTank-Phishing-Blacklists-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/phishfort-Phishing-Blacklists-Redirect.txt) | [訂閱連結](https://raw.githubusercontent.com/shiuh67/Family_Block_List/main/Blog-Gambling-and-Fraud-Redirect.txt) |
 ----------------------------------------------------------------
 
 ## 其他資訊
