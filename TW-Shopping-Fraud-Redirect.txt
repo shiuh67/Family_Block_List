@@ -1,9 +1,9 @@
 ! [165詐騙警訊連結]
 ! Title: shiuh67 TAIWAN 165 Anti Fraud Redirect
-! # Date: 20241005_063525
+! # Date: 20241005_123539
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：441
+! 網域阻擋列表數目：446
 ! 阻擋 數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單 來源:政府資料開放平台
 ! https://data.gov.tw/dataset/165027
 ! 
@@ -46,6 +46,7 @@
 ||byredotaiwan.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.byredotaiwan.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ccxybr.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||cftrrr.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cniusrt.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cokst.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||comeinpc24.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -129,6 +130,8 @@
 ||www.shoprakutens.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopsrakuten.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.shopsrakuten.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopvrakuten.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.shopvrakuten.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||skitrse.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sveint.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tf-tw.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -349,6 +352,7 @@
 ||fudim.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gaisc.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||geuis.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||gsrib.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gtoas.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||guzts.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gvisn.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -388,6 +392,7 @@
 ||peiom.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pietd.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pocxs.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||pxiub.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qnuis.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xtw.qunfcar.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qvcik.top^$dnsrewrite=NOERROR;A;34.102.218.71
