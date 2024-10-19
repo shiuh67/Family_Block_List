@@ -1,9 +1,9 @@
 ! [165詐騙警訊連結]
 ! Title: shiuh67 TAIWAN 165 Anti Fraud Redirect
-! # Date: 20241009_003615
+! # Date: 20241019_214342
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：446
+! 網域阻擋列表數目：454
 ! 阻擋 數位發展部數位產業署聲請詐騙網域名稱停止解析網址清單 來源:政府資料開放平台
 ! https://data.gov.tw/dataset/165027
 ! 
@@ -150,11 +150,16 @@
 ||shopeedsqhue.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopeeta.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tw83.shopeeta.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
+||shoppe-tw.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
+||shoppe.shoppe-tw.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shoppe5.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||36tw.shoppe5.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||37tw.shoppe5.cyou^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ksaxr.fun^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mmoos-p.fun^$dnsrewrite=NOERROR;A;34.102.218.71
+||shoppe-tw.icu^$dnsrewrite=NOERROR;A;34.102.218.71
+||tw-06tw.shoppe-tw.icu^$dnsrewrite=NOERROR;A;34.102.218.71
+||tw-35tw.shoppe-tw.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shoppel.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.shoppel.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||colaresearchclub.ink^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -176,6 +181,7 @@
 ||www.shoppet.ink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kfcs.life^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nansha.life^$dnsrewrite=NOERROR;A;34.102.218.71
+||nnkkea.life^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qgzhba.life^$dnsrewrite=NOERROR;A;34.102.218.71
 ||renguan.life^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hxwma.live^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -272,6 +278,7 @@
 ||hmgf.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hska.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||momotwafvb.store^$dnsrewrite=NOERROR;A;34.102.218.71
+||nkdoctortw.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||petdb.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qisd.store^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qojf.store^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -358,6 +365,7 @@
 ||gvisn.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hiopa.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hioxe.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||howid.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hwjsek.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||icusa.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ixstr.top^$dnsrewrite=NOERROR;A;34.102.218.71
