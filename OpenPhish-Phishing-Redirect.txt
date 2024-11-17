@@ -1,9 +1,9 @@
 ! [OpenPhish 釣魚網站]
 ! Title: OpenPhish Counter-Phishing Redirect
-! # Date: 20241117_183224
+! # Date: 20241118_003229
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：46878
+! 網域阻擋列表數目：47046
 ! 阻擋 OpenPhish 釣魚網站列表
 ! https://www.openphish.com/
 ! 
@@ -227,6 +227,8 @@
 ||amazon-munozcesar.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-shop-page.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-tw.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||amazon-web-test.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||amazonclone113.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazonclonebysam.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazonclonebysid.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazone-clone-by-bek.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -448,6 +450,7 @@
 ||merry-gumdrop-13aecf.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metamasks.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metamaskwallet.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||micros0ftsupp0rt.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mihaelavlaicu-snapfuck-groupsex2218.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mint-test-online.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mks-spotify.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -540,6 +543,7 @@
 ||sparebankno-privat.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||spareprivat-innlogging.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sparkly-tartufo-012f2b.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||spotify-clone-44.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||spotify-clone-luigi-iossa.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||spotify-copia.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||staking-synternetmigration.netlify.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -858,6 +862,7 @@
 ||amanbook.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-cl-jdj6v3tk4-muhammad-sauds-projects.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-clon-website.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||amazon-clone-five-amber.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-clone-murex-six.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-clone-navy-six.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||amazon-clone-six-phi.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1043,12 +1048,14 @@
 ||bookish-waffle-6n6g.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bordercollie-9111.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||borex-netflix-clone.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||borirecouhou-6958.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bossuddoheroi-5859.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bostempek.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||brabrouxuzauro-8082.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||brahagocrasse-2539.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||brandfuelbytehorizon.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||brandzonenetforgehub.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||breach-locked-record.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||breiladubradeu-8380.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||brequiddaleuri-9950.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||breuddapruceuda-5289.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1258,6 +1265,7 @@
 ||continue-clone23-here.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||conversionedgecloudvista.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cooompleteddd-creato00o0or.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||copyright-issue-apply.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||copyrightenforcementstopinfringement.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||copyrightsafepage.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||copyrighttoolguidelineenforcement.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1274,6 +1282,7 @@
 ||creator-studio-case-id.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||creinalossofri-4443.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||creppafasoigi-8583.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||cretiweicrera-5144.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||croxihollabri-9778.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cu1-three.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cugoissaprogo-1310.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1325,6 +1334,7 @@
 ||descrixx.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||deuddagiyefroi-9244.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||devenneummemou-9829.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||devnetflix.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dex-frontend.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dex-support.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dfgd-z8f5.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1486,11 +1496,13 @@
 ||fastxxxtel.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||faucetnodes.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fauddagrougreuve-1552.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||faugonebasoi-1122.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fauwoucobraujo-2953.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fazsiz50binbasvuru.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fb-clone-ashen.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fb-demo-five.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fb-login-clone.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||fb-login-mob.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fb-profile-photos-view.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fb-signup-page-jwzu.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fb-supports-verification-supporters.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1521,6 +1533,7 @@
 ||formulario-de-aplicacion-al-equipo.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||formulario-de-solicitud-verificar.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||forousogaucru-3460.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||frafajequahe-2512.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||frafrigotretti-1740.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||freddafecixu-2630.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||free-apply-verified-badge-here.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1591,6 +1604,7 @@
 ||get-blue-badge-free-now0.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||get-blue-badge-opportunity-here-now.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||get-blue-badge-service-free.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||get-blue-badgefree-now.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||get-blue-button-tag.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||get-blue-tick-for-free.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||get-blue-tick-here.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1830,6 +1844,7 @@
 ||kasimkampanyasi.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||katefrosuxa.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kauppofragracrei-7295.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||keippauguffosei-4800.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kev-pdf.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kiiiuy.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kislevt-kossar.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -1995,6 +2010,7 @@
 ||metafaceb00kchecking019.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metaimaaskwallt.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metamask-io.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||metamask-login.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metamask-nft.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metamask-web.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||metamaskweb.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -2249,6 +2265,7 @@
 ||nft-opsea18.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nft-opsea24.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nft-opsea26.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||nft-race67.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nft-race7.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nftc-nft4.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nftgclaim33.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -2373,6 +2390,7 @@
 ||oplyaa.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||opportunity-meta-verified.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||opportunity-to-verify-page.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||opportunity-verified-badge-here.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||opsea10.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||opsea19.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||opseaclick914.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -2460,6 +2478,7 @@
 ||privacytoolenforcementnotice.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||probable-pancake-one.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||problemsolvedhelphelpandguidepro.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||procomunity.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||procrinauddatro-4288.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||procroxouffamo-4069.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||profile-submit-case-here.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -2543,6 +2562,7 @@
 ||request-blue-verified-on.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||request-for-blue-verified.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||request-for-free-verified.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||request-form-profile-for-blue-tick.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||request-free-verified-badges.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||request-opportunity-badge.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||requestreviewneeded.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -2598,6 +2618,7 @@
 ||rogerss11.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rouddoidatteucro-7264.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||round-cube-server.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||rouppappessauwi-7378.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rouppigabeffo-2746.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rousseuzeseque-4176.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rsupport-business.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -2704,6 +2725,7 @@
 ||submit-ad-violated-8ce1.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||submit-advertising-violates-dav23.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||submit-appeal-case.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||submit-appeal-for-free-verified.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||submit-apply-get-fre-verified.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||submit-f-appeal.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||submit-for-service.vercel.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -3094,6 +3116,7 @@
 ||ee-account-security.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ee-account-update.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ee-alter.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||ee-bill-activation.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ee-charge-recovery.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ee-debit.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ee-error.web.app^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -3300,6 +3323,8 @@
 ||bdvlinesa2.fra1.zeabur.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||creditosbdv.fra1.zeabur.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ingresosegurobdvenlinea.fra1.zeabur.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||prestamosbdv2.fra1.zeabur.app^$dnsrewrite=NOERROR;A;34.102.218.71
+||pristonbdvsprets1.fra1.zeabur.app^$dnsrewrite=NOERROR;A;34.102.218.71
 ||am130.1.com.ar^$dnsrewrite=NOERROR;A;34.102.218.71
 ||am98.1.com.ar^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.areasegura.com.ar^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -3477,6 +3502,7 @@
 ||trackyourpackageusps.blogspot.ba^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspsservicetrack.blogspot.ba^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bujicekonjic.ba^$dnsrewrite=NOERROR;A;34.102.218.71
+||vincifr.karmel.web.ba^$dnsrewrite=NOERROR;A;34.102.218.71
 ||chilly.baby^$dnsrewrite=NOERROR;A;34.102.218.71
 ||imtoken.baby^$dnsrewrite=NOERROR;A;34.102.218.71
 ||link-tg.baby^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -3945,6 +3971,7 @@
 ||apartment-extents.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||axpi2.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||btc-bit.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
+||bxhsga.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ceshi.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||channel-xq.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ktg-ntsr1.d-mobilerz.buzz^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -4386,6 +4413,7 @@
 ||55100001.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||55100002.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||551001.cc^$dnsrewrite=NOERROR;A;34.102.218.71
+||551001f.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||551003f.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||551003g.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||551004.cc^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -4456,6 +4484,7 @@
 ||app-cloud.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||apple-conn.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||atsapp.cc^$dnsrewrite=NOERROR;A;34.102.218.71
+||ausmypost-track.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b551002.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b551009.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tv.bajiu.cc^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -4508,6 +4537,7 @@
 ||estafetai.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||esun-bank.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||esunbnnk.cc^$dnsrewrite=NOERROR;A;34.102.218.71
+||f551006.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||f551008.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||g-telegnm.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gbapk.cc^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -4623,6 +4653,7 @@
 ||telegra-m.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegral.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegramee.cc^$dnsrewrite=NOERROR;A;34.102.218.71
+||telegramvc.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegrarvm.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegratzm.cc^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegraum.cc^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -5055,6 +5086,7 @@
 ||urtesia.ch^$dnsrewrite=NOERROR;A;34.102.218.71
 ||decay.chat^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gloss.chat^$dnsrewrite=NOERROR;A;34.102.218.71
+||inject.chat^$dnsrewrite=NOERROR;A;34.102.218.71
 ||direct.lc.chat^$dnsrewrite=NOERROR;A;34.102.218.71
 ||abtecci.cl^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.abtecci.cl^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -5359,6 +5391,7 @@
 ||xy-me.cloud^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xz3cs.cloud^$dnsrewrite=NOERROR;A;34.102.218.71
 ||z168563365.cloud^$dnsrewrite=NOERROR;A;34.102.218.71
+||1688mall.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ebay-online.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||firavave.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dp.id223743.club^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -5396,6 +5429,7 @@
 ||telegraima.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegraims.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.telegraimv.club^$dnsrewrite=NOERROR;A;34.102.218.71
+||telegramcs.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegramee.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegramin.club^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegramis.club^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -5526,6 +5560,7 @@
 ||emv1.neuqab.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||web.noyoo.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||imtoken.org.cn^$dnsrewrite=NOERROR;A;34.102.218.71
+||store.cloudflare.ext.steampowered.org.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegrann.org.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zh-imtoken.org.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zh-telegram.org.cn^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -5538,6 +5573,7 @@
 ||telegram.qqtax.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||prcdajdeeeeosajksjkakd118283.qxlufz.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rqpayl.cn^$dnsrewrite=NOERROR;A;34.102.218.71
+||hcxt.sdloor.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||skype-com.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.sunjoy.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||szowrq.cn^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -5575,6 +5611,7 @@
 ||web-whtasapp.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||webtelegrcm.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whataapp.cn^$dnsrewrite=NOERROR;A;34.102.218.71
+||whatcapp.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whatsapp-web.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.whtsapp-zy.cn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.wincoco.cn^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -6003,6 +6040,7 @@
 ||allegro-wosp-2023.4hosting2.4ourclient.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||4vip365666.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||5-case.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||50365vip.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gfrggrfhtfggtyhfygftgffhffgfgfgfg.50megs.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||50mmfoto.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||518kk.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -6083,6 +6121,7 @@
 ||739399.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||7425357365.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dpd.743756.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||752264-coinbase.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||764500.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||765611-verify.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.765611-verify.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -6534,6 +6573,7 @@
 ||helprecovercaseid4545.d1hy4n7thb3wc4.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||support-center-advertising-appeal.d1ih7wy8yxo3k8.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||review-support-page-team.d1iuw6ffdxgd4j.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||meta-compliance-03291.d1ko9yr7meq3ur.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||helpdeskrecoveridcase.d1l3x5mattrdrf.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||advertising-guidelines-appeal-needed.d1lnggr0hhfe82.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||id-recover-case-support.d1mr0toczwf5o9.amplifyapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -6862,6 +6902,7 @@
 ||atplink.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||att-negociosyempresas.com.att-empresarialmx.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.att-negociosyempresas.com.att-empresarialmx.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||att-negociosyempresas.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||complaint.attentde81754.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.attestetonticket.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||atuact-bx.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -6922,6 +6963,7 @@
 ||b22355.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b27769.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b28557.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||b45004.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b45008.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b45013.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||b45088.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -6978,6 +7020,7 @@
 ||www.bappscard.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||home.barcinltorg-en.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||barclays-remove-device.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||m.barcshare.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||baselupd.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||batuffflex.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||docu-auth-5775940568.bb-abogados.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -7089,6 +7132,7 @@
 ||bet6405365.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bet6505365.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.bet6505365.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||bet83028.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bet83037.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bet89500000.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bet89533333.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -7658,6 +7702,7 @@
 ||clarecaudprom.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||clentregaexpres.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gfx.clicktaketech.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.clientebddvonli.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telus.signup.clik2pay.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||climasimoestl.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||clinetgdlapersn.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -8305,6 +8350,7 @@
 ||www.trustwallet.divinaldec.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||divinedownload.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.djajdacurr.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.djcurratt.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||djtool-for-spotify.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dlsltzn.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dmrtaxes.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -8394,6 +8440,7 @@
 ||easyinkjetrefill.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||easypayee.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.easypayee.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||eazxcso.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||attwebupdate.eb-sites.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ebanking-login.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ebay-016.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -8833,6 +8880,7 @@
 ||my-ee-login-auth.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||netflix-build-36bca.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||netflix-clone-4d146.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||netflix-clone-64606.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||netflixgpt-98554.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nextmytelstraaucurelinkisityou.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||notrobotspark-1atre.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -8851,6 +8899,7 @@
 ||pakket-bpost-be.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pc-visio01.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||private-sp-826-d01.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||project2b-7f9c3.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ranchsten.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reactivate-device-au.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rebeldoc.firebaseapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -9873,6 +9922,7 @@
 ||healthgoodhistory.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.heartnhatrang.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||heatpt.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||hebxqrc.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||heiljsw.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||help-meta.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||business.help-privacy-center-com.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -10512,6 +10562,7 @@
 ||ishopmexico-atencion.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ishopmx-soporte-online.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ishopretencion.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||isnworldwide88.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||isokoni.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||duksbnjoe.issmarterthanyou.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||complaint.issue141.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -10636,6 +10687,7 @@
 ||ecomhhoney.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||instagarm.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||paysafecard.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||pubg-mobile-official.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||refund-hsbc.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.refund-hsbc.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||connect.restore-your-wallet.kesug.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -10742,6 +10794,7 @@
 ||www.lashop-splitime.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||m.lastmadridtopic.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||latamcevalogistics.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||lbclr.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.lbcpartnerautoviza.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lccgm.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lcloud-located-lnc.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -10772,6 +10825,7 @@
 ||ledger-portal.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ledger-restore.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ledger-service-hardware.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||ledger-support-fix.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.ledgeractivation.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ledgerhardwarehelp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ledgerhardwaresupport.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -11608,6 +11662,7 @@
 ||z9l1wjjiz5xp8sqakws6og19f8odp9ct.ocalam.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zyu2u87iy5xtfw9w5u0q3xgbb33u2q9k.ocalam.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.oducal.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||oec-odic.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||offcevoice.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.offer-open.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||offer-sea.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -12048,6 +12103,7 @@
 ||www.optimumsynvspage.publicvm.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pumpcryptosignals.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||punk-cake-swap.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||purelandgroup.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||purocueroecuador.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||puthighor.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||putianbuttons.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -12320,6 +12376,7 @@
 ||h5.s0x2.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||h5.s7gx.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||applela.sa.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||3337514.cgsw.sa.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||3620583.cgsw.sa.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||58315665.cgsw.sa.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||16718770.dana.sa.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -12541,6 +12598,7 @@
 ||secugestioncmp.servehttp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www-userhuntingtoid.servehttp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bankofamericass.serveirc.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||demo-apple.serveirc.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||inidemoapple.serveirc.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||securearvest.serveirc.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||updateubereatinfo.serveirc.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -12844,6 +12902,7 @@
 ||steamcommonunity.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||steamcommounlity.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||steamcommrnity.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||steamcommuilty.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||steamcommuintiy.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||steamcommumitty.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||steamcommummutty.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -12972,6 +13031,7 @@
 ||sun-innovative.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||suningmbce.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sunnysani.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||sunsrisestrails.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||superdupergraphics.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||supergrsssler.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||supermario-game.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -13191,6 +13251,7 @@
 ||telegramjd.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.telegramkd.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.telegramke.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.telegramkel.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.telegramkl.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.telegramkv.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.telegramna.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -13797,6 +13858,7 @@
 ||meta.user-accounts-security.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||usergalic.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspsbvcuiuspacz.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||uspscargofreight.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspsdeliveries.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspsexpressinc.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspshome.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -13998,6 +14060,7 @@
 ||server.wb9b.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wbe-wlnatsapp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wbfklongzhiyao.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||chatlink.wchatlink.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||10949ec.wcomhost.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||10f37b0.wcomhost.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||11020dc.wcomhost.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -14191,6 +14254,7 @@
 ||96a14af4b46219e067.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||98423734-437834-342.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||98t87.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||a0lserviceopretor231.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aaaaaaaaa0000001111.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aaaastttre231353.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aaaatr4674uigk.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -14652,6 +14716,7 @@
 ||currently0538.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently06.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently0734.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||currently09.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently092.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently098765.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently0987652.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -14683,8 +14748,10 @@
 ||currently5678.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently5att.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently61.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||currently610.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently618978.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently6290.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||currently6329.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently6421.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently648att.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently6510.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -14698,6 +14765,7 @@
 ||currently7377rfjwy.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently73fu835t.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently73fu83we3.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||currently748474.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently7545.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently7564.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currently76587.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -14792,6 +14860,7 @@
 ||currentlyattyahoo404.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currentlyattyahoo808.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currentlyemail801.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||currentlyemailaccount.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currentlymaii.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currentlymail1.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||currentlymail11.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -15757,6 +15826,7 @@
 ||te-ayudaremo-a-cancelar-aqui.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||techniciennaquaflorange.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||teliapop234.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||telllssstrrra.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telstracommunicates.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telstrawebmail222.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||temubancolombiacancelacionesvirtual.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -15807,6 +15877,7 @@
 ||uhefevmnbqp.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uiclogin.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uirtdtgerui.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||uiytfdghjkhgfdghjkhgfdfg.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ujjewmanskdeoiskedn.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ujjmxddsweolkijh.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ujuow3ieuweefhjjhhwdqdaejqu2ur3iuwehdjh.weebly.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -17335,6 +17406,7 @@
 ||bto-boarband.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||btt-email-update.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||btt-s3rver.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||btttkf2470-106717-107009.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bturej1099931056.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||btwrld.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||btyxqgg107999.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -17840,6 +17912,7 @@
 ||juno-mail-102535.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||juno-mail-102749.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||juno-message-center-100544.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||juno-message-center-101525.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||juno-message-center-101610.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||juno-message-center-104267.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||juno-message-center-104486.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -18051,6 +18124,7 @@
 ||my-site-100511-109492.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||my-site-100627-103670.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||my-site-101140-100779.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||my-site-101220-104841.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||my-site-101919-107484.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||my-site-101920.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||my-site-102039-10633458.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -18886,6 +18960,7 @@
 ||view-106734.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vilw-107479.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||visbtee.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||vogpyu.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vzsd739344.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||web-103469.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||web-109039.weeblysite.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -19128,6 +19203,7 @@
 ||whtapps-lb.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whtapps-lf.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whtapps-lm.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||whtasapp-ai.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whtasapp-cf.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whtasapp-gp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||whtasapp-kp.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -19526,6 +19602,7 @@
 ||rellis0729.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||replynwebsms.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reservemms.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||resultbox1974.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||retti8.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reviewinboxmailbox.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reviewyouraccountt.wixsite.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -19801,6 +19878,7 @@
 ||xejntcknet-id57193.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xheip.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xhelpbattle.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||xiaomizp.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xiaosheng8.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xingbingcq.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xircehennem.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -19968,6 +20046,7 @@
 ||vz.uag14.za.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||km.zhl8.za.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sc.zxgs.za.com^$dnsrewrite=NOERROR;A;34.102.218.71
+||zafiraolshop.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zaldma.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.zarrinfar.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zaynahjart.com^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -20947,6 +21026,7 @@
 ||carrefour-enbacktoschool2.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||carrefour-enbacktoschool4.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||carrefour-enbacktoschool7.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||carrefourarabiank12.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cash-app-28q.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cashapp-ebu.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cashapp-help-app.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -21251,6 +21331,7 @@
 ||dealonrevs.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||debug-chain.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||debugchain.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||debugxchain.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||decenlaunchpad.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||decentralize-smartsolution.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||decentralized-chaindapp.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -21396,6 +21477,7 @@
 ||earthmetasync.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||earthmetasync1.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||easyantrim.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||easyfeed-back.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eb2-ajh.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eb2y9nmbzj.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ebm.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -21570,6 +21652,7 @@
 ||fluxnewmet.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fnchlwgks2phfd6.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||9a7a2707.focus13.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||foodandwines.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||formplatclick.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fq77.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||framemultichain.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -22530,6 +22613,7 @@
 ||rataatatatatata.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rc9ssnpjrpyjqxema1xjdzyim3prbqqffl2etrsakcsulv.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||re-appslaunchpad.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||re-arstroid.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||re-djdks-fjjkdkkdd-fjfkkfkfkflfld-kgjkkdldld-xccx.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||re-launchrev.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||re6856-sdo324d.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -22625,6 +22709,7 @@
 ||revshares-phase.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||revshares-stats.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||revsolsavenue.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||revweb3-access.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rewapsuotxtcom.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rewardcoin.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rewards-dappnode.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -22754,6 +22839,7 @@
 ||sezerms1.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sfbjksdfkdbfkjedfljwedfwjlef.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sfdgdfgdfg.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||shahin-84p.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shar3565465462132.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sharedfile8.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sharefile-docs.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -22884,6 +22970,7 @@
 ||sundayxboys.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||suomaxnevc98-huomecabx-juoemce-lioemxo.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||super-duper-octo-couscous.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||supercoreinchtrade.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||superlayermind.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||support-apple-care.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||support-bxv.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -23214,6 +23301,7 @@
 ||waconibros.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wafturnstilepro.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wajeposuotxtcom.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||wall-en-migration.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wall-migration.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wall-migration-app.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wall-migration-s.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -23390,6 +23478,7 @@
 ||ybnwivpxga0b.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yc0q1eratr.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yeiym3hdor7r2vnhp.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||yelinnaung-14.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yerishtakyakehlatahaiji.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yetoksuotxtcom.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yfd68rjgu4o.pages.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -24239,6 +24328,7 @@
 ||pub-3f84de9aa4f04824a3cf79d4adea59cb.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-3faaa23e769e4320b6df24c1b28e3f36.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-3fcb1f87ac1c4eb984136f6eb4365987.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||pub-3ffa1313bdca4ec8ba87f9b311950bec.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-403945d0f82b44a49f74553f849770ce.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-4045a67b9e764386a724749f8ab6e56e.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-4054e7f05a57459e88c44b940037f4fb.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -24349,6 +24439,7 @@
 ||pub-4855794bab3f44ff864513d537421da4.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-485c938c1a1b43b2bbc5b99155f2de68.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-4871504845bf494bb0def5a8808a4f12.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||pub-48a9f39f1dd140968a7405ee66fc299f.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-48c5a119b1a24e8383900dbdabec6d05.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-48ca7fb99c824c5797ae62fed688005b.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-48cb51754474467eb8ada376108141d7.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -24363,6 +24454,7 @@
 ||pub-499de9e22147499d8e2a230fa85af8eb.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-49afd85ba38542c09d5e9bc4d83488ef.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-49c39047b2314447857f660f5d89d43e.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||pub-49c3dd1f770e49ce9842685dff76a6eb.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-49f7bdad3ae7458f8076aa4480203a8b.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-4a302de6bddd424c887b5942a428d849.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pub-4a42d3c4a7434d8bac2b34e53d9e5c8e.r2.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -26719,6 +26811,7 @@
 ||166cdc4f-c995-417c-9a36-7b0c4cae0de2-00-1x7f8fxpqywlo.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||18cbf89c-9f6a-4623-bf53-cffeade1433f-00-27u73092ihs3q.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||195a2210-0c38-4208-9f1d-7d342dc505e3-00-2lpz1a1u6lfzp.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||2f3eac84-fdc2-4843-b031-de8b390434b9-00-1w8n5h6bywlxf.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||487d407a-686f-4bff-b0a4-e81e97264e12-00-11vtzo31qyw2t.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||49a7dce1-918e-4a27-91f1-13d06501986e-00-21rt15lal6umj.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||62f18194-01d0-459e-a945-4bad417cd3e1-00-2qivtb2vbf734.worf.replit.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -27419,6 +27512,7 @@
 ||reza.yazdanislamic.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cool-block-54a8.yegaya3069.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||throbbing-morning-889c.yhhfoe9v.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
+||tiny-cake-2456.yipsiposti6440.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||971.ym19710.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sheet-firefly-9ee9.yolandaerwin.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
 ||movie.ypiwin.workers.dev^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -27512,6 +27606,7 @@
 ||treytrhjhguiyu53456fggr.blogspot.com.eg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspsservicetrack.blogspot.com.eg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||owa.sharefiles.email^$dnsrewrite=NOERROR;A;34.102.218.71
+||web.sloanfoundation.email^$dnsrewrite=NOERROR;A;34.102.218.71
 ||adiraneazkuenaga.es^$dnsrewrite=NOERROR;A;34.102.218.71
 ||antibiotic.es^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.antibiotic.es^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -27654,6 +27749,7 @@
 ||app.pancakeportal.finance^$dnsrewrite=NOERROR;A;34.102.218.71
 ||claim.pancakeweb.finance^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rdpolytech.finance^$dnsrewrite=NOERROR;A;34.102.218.71
+||lacer.fit^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telagxam.te-en.fit^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telcegram.fit^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegcrama.fit^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -27842,6 +27938,7 @@
 ||peni.gr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ggountsiot.sites.sch.gr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||members-netlfix.vserente.sites.sch.gr^$dnsrewrite=NOERROR;A;34.102.218.71
+||roast.green^$dnsrewrite=NOERROR;A;34.102.218.71
 ||argo.aiva.group^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bluff.group^$dnsrewrite=NOERROR;A;34.102.218.71
 ||imtoken-mi.group^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -28075,6 +28172,7 @@
 ||kiscsn.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||leagsmk.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lieku.icu^$dnsrewrite=NOERROR;A;34.102.218.71
+||lllwwwhfq.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||log-wsapp.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||m-a-global-online-service.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||m-telessrm.icu^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -28244,6 +28342,7 @@
 ||xyneftye.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zcypmsp.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tkk.zfi6.icu^$dnsrewrite=NOERROR;A;34.102.218.71
+||zzzwwwgftjg68.icu^$dnsrewrite=NOERROR;A;34.102.218.71
 ||00dbs.id^$dnsrewrite=NOERROR;A;34.102.218.71
 ||digilib.iailm.ac.id^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pustaka.fhuk.unand.ac.id^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -28962,6 +29061,7 @@
 ||www.e-serviceparts.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eginamontero.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eleganshotbrdo.info^$dnsrewrite=NOERROR;A;34.102.218.71
+||suttungr.elginrangers.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||encontrar-id.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||encontrar-lcloud.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.enterprisetoday.info^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -28979,6 +29079,7 @@
 ||organiza.guiadotuprogreso.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hdface.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||helpnets.info^$dnsrewrite=NOERROR;A;34.102.218.71
+||ymir.hfjp.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.horshamriverupd.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||icloud-alerts.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||icloud-lphone.info^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -29080,6 +29181,8 @@
 ||supports-mondials-relay.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||detectedpaypal.suspicious-activity.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.swedbankgroup.info^$dnsrewrite=NOERROR;A;34.102.218.71
+||rolin.sweetcomrade.info^$dnsrewrite=NOERROR;A;34.102.218.71
+||sino.sweetcomrade.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tasdiqbot.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegram-vi.info^$dnsrewrite=NOERROR;A;34.102.218.71
 ||test1-dom.info^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -30535,6 +30638,7 @@
 ||robinhildusalogun.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||robinhneldlogin.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||robinhocd-login.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||robinhodl0ginx.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||robinhodlogoio.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||robinhoecod-logiw.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||robinhood-login-com.gitbook.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -31371,6 +31475,7 @@
 ||bdvpersonas.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bebyn.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||become-meta-verified-now.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||bekes-505.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bennyboy10.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ber0nd0lan3vadcoldesels.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||beraswapnil.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -31638,6 +31743,7 @@
 ||dhanuzdev.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dhanvannththulasiraman.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dharaprajapati2.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||dharbendrasah.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dharma-raju.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dharmendra-swe.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dheerajshetty22.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -31729,6 +31835,7 @@
 ||durgesh1008.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||durjoydey12.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dutta105.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||dvbank.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dwivedishashank2003.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dwqdwqdwq53.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ebrahemsamir.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -31769,6 +31876,7 @@
 ||en-welcome-trezor.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||en-with-trezor.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||erenyaegar03.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||erringexplorer267.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||error-404-debug.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||es-la-facebook.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||espoir1989.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -32761,6 +32869,7 @@
 ||nf722.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ngit90.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nhantubtr.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||nick-bb.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nicollasxpnx.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nidhal-ui.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nihaljeronia.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -34130,6 +34239,7 @@
 ||yogeshpol96.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||younass21.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||younyikim.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||youssef1701.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yousseflbrahim.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yrbfhfjkd.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yugchapherkar.github.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -36639,6 +36749,7 @@
 ||van2243.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vancollum1.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vdeajoke.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
+||victoryakeen.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||violentgold.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wonwhit.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wykoffi.wixstudio.io^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -36730,6 +36841,7 @@
 ||reactstudio.it^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.reactstudio.it^$dnsrewrite=NOERROR;A;34.102.218.71
 ||seigarden.it^$dnsrewrite=NOERROR;A;34.102.218.71
+||sestosensobarrafranca.it^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.sistemapt.it^$dnsrewrite=NOERROR;A;34.102.218.71
 ||spitaleri.it^$dnsrewrite=NOERROR;A;34.102.218.71
 ||startupgroupsrls.it^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -36742,10 +36854,12 @@
 ||rakuten-cardatm.co.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||myeloma.gr.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.myeloma.gr.jp^$dnsrewrite=NOERROR;A;34.102.218.71
+||ikeda-tdot.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||diligent-saga-1402.lolipopmc.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.mic456.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.soyokai.or.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.orakid.jp^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.poac.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ksoail.qc-plus.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wkjaoeiii.qc-plus.jp^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rakuten-cardf.jp^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -36831,6 +36945,7 @@
 ||investors.spotify.com.sg2.putrivpn1.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||web.whatsapp.com.sg2.putrivpn1.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||quiz.int.vidio.com.id1.putrivpn5.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
+||quiz.int.vidio.com.id4.putrivpn5.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||creativeservices.netflix.com.id1.retribution.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||creativeservices.netflix.com.id2.retribution.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
 ||investors.spotify.com.id2.retribution.us.kg^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -36877,6 +36992,7 @@
 ||optusnet-com.blogspot.kr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||trackyourpackageusps.blogspot.kr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uspsservicetrack.blogspot.kr^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.order9.co.kr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||reviewnavi.co.kr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.zetalube.co.kr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||myetherwallets.kr^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -37306,6 +37422,7 @@
 ||bafybeic3tale3a6a6zxlakre7mqx2xiq5wovg75maamczhy7vib2z3eyyy.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bafybeic4a554h6lw45trnafw5pkgi4exrxj5kvcl6ldnjzuqvait5fsl5y.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bafybeic4scmiginezzq42dorpf3vr5wxkp36cymmbhdcxmm3okyfobtspy.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
+||bafybeic55ovzqyjtyar5jcbqkyvkftfiynabds2wi6xvgchlpzoc5y6x3i.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bafybeic5my4xsgga5zahdaodosw4b3bf6bfib32vlebx46vlapu3mkq3cq.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bafybeic63mtia5l526fsn2ehrh7bfayd7nk6ae5mmltyy2euyvrhvr2f3e.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bafybeic7xtznmrazhjjf2wlmdwzng2qfw3th6skmbj6bjc4i452fvjevsu.ipfs.dweb.link^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -38484,6 +38601,7 @@
 ||ember-bedecked-calliandra.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||empty-statuesque-mailbox.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||enthusiastic-sepia-hourglass.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
+||evitesuspencion365outlook.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||evitesuspencionbcp.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||evitesuspencionviabcp.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||exciting-furry-boa.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -38634,6 +38752,7 @@
 ||sdafdsfgdsgdfx.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||seed-puzzling-monkey.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||seemly-immense-collard.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
+||segurity-msn00.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||separated-insidious-paddleboat.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||service-viabcp.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sheer-ruddy-marigold.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -38666,6 +38785,7 @@
 ||support10-microsoft2025.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||swanky-prickly-servant.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sweet-waiting-patient.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
+||tangy-even-mammal.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tar-whip-mahogany.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tasty-brazen-dracorex.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||thunder-clever-polyester.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -38686,6 +38806,7 @@
 ||universal-narrow-indigo.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||unmarred-ambitious-fight.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||unmarred-nosy-guitar.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
+||validacion-cuentamsn2024.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||validacionesoutlookmailwebadmin.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||validarcuentaenlineaemail.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||validatucuentaqui.glitch.me^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -38862,6 +38983,7 @@
 ||yfs.lew.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||fdh.lil.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ugq.lil.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
+||akc.loz.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||guw.loz.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zrs.loz.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tvc.mhd.mybluehost.me^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -39078,6 +39200,7 @@
 ||imt0ken-ow.mom^$dnsrewrite=NOERROR;A;34.102.218.71
 ||irntoken-sl.mom^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mghe5dgh.mom^$dnsrewrite=NOERROR;A;34.102.218.71
+||mikl.mom^$dnsrewrite=NOERROR;A;34.102.218.71
 ||myhol.mom^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ob4svs.mom^$dnsrewrite=NOERROR;A;34.102.218.71
 ||oklopwet.mom^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -39114,6 +39237,7 @@
 ||expose.monster^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gorily.monster^$dnsrewrite=NOERROR;A;34.102.218.71
 ||quilt.motorcycles^$dnsrewrite=NOERROR;A;34.102.218.71
+||stoic.motorcycles^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aolmaiillogin.blogspot.com.mt^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hamouda0-t3-zabi.blogspot.com.mt^$dnsrewrite=NOERROR;A;34.102.218.71
 ||instagram5807.blogspot.com.mt^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -39818,6 +39942,7 @@
 ||galicias777.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gopmeni.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hcllmsx.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
+||heyjohcn1.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hnficohn.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hotusermail.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hsydvshsys.serv00.net^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -39907,6 +40032,7 @@
 ||arsukk.ssregs.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||stakeform.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||steamtools.net^$dnsrewrite=NOERROR;A;34.102.218.71
+||storealbbtik.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||studyinblcu.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sturph.net^$dnsrewrite=NOERROR;A;34.102.218.71
 ||suite-manage-business.net^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -40425,6 +40551,7 @@
 ||hrrorgn.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mail.hrrorgn.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||huiptruzkq.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
+||hzqgfqrswm.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||icplxgssyx.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||idbzwjfbaw.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
 ||inyjafjvta.duckdns.org^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -40813,6 +40940,7 @@
 ||decide.pink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||expose.pink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||flute.pink^$dnsrewrite=NOERROR;A;34.102.218.71
+||keen.pink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||temp.snowflake.pink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||strain.pink^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rolosports.com.pk^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -41011,6 +41139,7 @@
 ||tp.tokenpocket-tp.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||zh.toknnpocket.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||topsignal.pro^$dnsrewrite=NOERROR;A;34.102.218.71
+||towallet.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||facebook.authentication.tracehack.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||facebook-authentication.tracehack.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||trust-in.pro^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -41022,6 +41151,7 @@
 ||wingetnowp.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wingetoner.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||winpewriwz.pro^$dnsrewrite=NOERROR;A;34.102.218.71
+||www.winpewriwz.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||xenolight.pro^$dnsrewrite=NOERROR;A;34.102.218.71
 ||homeco.ps^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bet-365.pt^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -41584,6 +41714,7 @@
 ||botsforb.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||breitenbeeg.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||danaindonesia.bs-tc.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
+||bxhsiqnn.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||q6.c-shopify.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pembatalan-pengajuan-paylater.c5-py.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pemulihan-akun-dana-dibekukan.c5-py.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -41611,6 +41742,7 @@
 ||gongjing.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gottliee.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hangkou.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
+||hangs.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sp.hgf123.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||jaoobson.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dfjghkghlhjjjjjjjjjjjjjjjjj.jhkljkhllhgjuiyo.sbs^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -42041,6 +42173,7 @@
 ||download.ebaymerchant.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.ebayss.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.ebayxsss.shop^$dnsrewrite=NOERROR;A;34.102.218.71
+||download.ebnays.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wss.eithshop.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eldestxsyn.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||eoptu.shop^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -42318,6 +42451,7 @@
 ||shopify-xjp.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopify-xp.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopify-zl.shop^$dnsrewrite=NOERROR;A;34.102.218.71
+||shopifydl.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopifynk.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopifysl.shop^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopifyzp.shop^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -42969,6 +43103,7 @@
 ||jjr.dbv.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mail.jjr.dbv.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||aom.dfk.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
+||mkf.ezv.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||irstaxrefunds.org.arm.ftg.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.irstaxrefunds.org.arm.ftg.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ujj.ftg.temporary.site^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43091,6 +43226,7 @@
 ||all123123sdasd.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||begenburda.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cloud-log.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
+||dhl-tracking-au.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||facebooksecurity.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||impost2024france.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
 ||instaagram2x.blogspot.sn^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43269,6 +43405,7 @@
 ||unmackly.today^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tokenpocket.00852.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||009812kivip.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||0m036vm8a.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||13448.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||14buj7ccz.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||16456.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43290,6 +43427,7 @@
 ||28438.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||29962.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||2dduqpcdq.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||2t6pmeilf.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||3115cc.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||3115ee.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||3115ff.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43311,6 +43449,7 @@
 ||47809.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||47934.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||48020.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||482wdif6e.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||48571.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||4ct35xohh.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||4gv3b5jwq.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43757,9 +43896,11 @@
 ||digitalbitriver.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dintfarm.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wws.djufd326egageaw.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||dl7trzimy.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||docdws.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dshwhyeuurrc.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dssbmeftibda.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||dv1qsld25.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||dvdvb.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ussv.dvhfovkc.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uszn.dvhfovkc.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43804,6 +43945,7 @@
 ||es-correosose.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||es-correso.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||es-corroees.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||escgvlr6f.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ustq.esdvpwxj.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||espaceclient.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.estafetaru.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43882,6 +44024,7 @@
 ||gokhfhlfwpyb.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||googlemaps2.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||googlemaps3.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||googlemaps5.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||googlexxx.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||goteleg-br.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||gpbth.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43956,6 +44099,7 @@
 ||hzpivdkvniks.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||i2pph1n3u.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||i2r2lbk3r.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||iadgy.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||usxln.iayvrhda.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ibjlwkiyatit.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||idkbsmvenxtm.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -43990,10 +44134,12 @@
 ||u.infotracketb.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackfhu.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackfvx.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||u.infotrackgdd.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackgvr.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackgvs.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackhew.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackhfy.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||u.infotrackhrw.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackhvb.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackhzt.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u.infotrackjax.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44107,6 +44253,7 @@
 ||khpyb.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kiwicddym.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kjpbki289.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||8ss1u7kgo.kkyijv10.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||1gheh4pc9.kkyijv11.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||u82hgluw9.kkyijv11.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||cs.klhmomoglrzx.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44157,6 +44304,7 @@
 ||lockingsj.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lockingtc.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||login-wsapp-hk.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||logisticsdhljob.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||perts.logterd.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tels.logterd.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lorort.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44203,6 +44351,7 @@
 ||mall-center.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.mall-center.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mall-emo.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||maltiktok.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||managementviolationsy.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mandilas.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||bb.maseczka.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44219,10 +44368,12 @@
 ||minerpioneer.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||discord.misakamikoto.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mkjneq.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||mkpy885iq.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mm259cn278.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.mm259cn278.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uslt.mmfuimlz.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mnwbb.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||mo9o4151e.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mojos.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mon-espace-client.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||moneylioncng.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44385,6 +44536,7 @@
 ||qqykp.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qtxgnlyqtsdl.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||wts.quikrtd.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||quwyh.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qwekorqw-eqo.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qwkhsf-sdw5.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||qwmhbu-dwq21.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44469,6 +44621,7 @@
 ||ruinb.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rupemel.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ruzulum.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||rv0hz0w12.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||rxpfy.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||s8sjds.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||salianfjvx.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44485,6 +44638,7 @@
 ||shcus.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||shopbyn563.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||singtelaxc.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||sj39c2qa7.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sjyiy.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegram.sk35.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||skae3299.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -44820,6 +44974,7 @@
 ||tyfjlkmihzbsoj.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||mt.typhzeowbjol.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nds.tzrworldexgo.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||u4kcwdtqz.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ud6edw4ef.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uebtsudo.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||uffew.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -45124,6 +45279,7 @@
 ||yjfn1imq8.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ynvgeo.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yohzwckoxrwx.top^$dnsrewrite=NOERROR;A;34.102.218.71
+||ypbc2pios.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yrjlt.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||ytere.top^$dnsrewrite=NOERROR;A;34.102.218.71
 ||yvlci.top^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -45185,6 +45341,7 @@
 ||locateld.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||lsupport-app.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||maps-lsupprt.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
+||seturas-login.microsotf.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||nurbebe.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.nurbebe.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
 ||haberler-yeni-com.satilir.com.tr^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -45471,6 +45628,7 @@
 ||www.vimuscle.vi^$dnsrewrite=NOERROR;A;34.102.218.71
 ||00808.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||00dbs.vip^$dnsrewrite=NOERROR;A;34.102.218.71
+||0365365.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||0432.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||120365.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||130365.vip^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -45722,6 +45880,8 @@
 ||maii18699.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.mall1688.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||manpoint.vip^$dnsrewrite=NOERROR;A;34.102.218.71
+||claro.manpoint.vip^$dnsrewrite=NOERROR;A;34.102.218.71
+||hk.manpoint.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||martunisawap.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||maxisl.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||buzhangsf.maxisl.vip^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -45839,6 +45999,7 @@
 ||tk-shops.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||www.tkbusiness.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tkglobalmall.vip^$dnsrewrite=NOERROR;A;34.102.218.71
+||tkglobalstore.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tkmallshoppingstore.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tkshop3.vip^$dnsrewrite=NOERROR;A;34.102.218.71
 ||tkshoponline.vip^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -46056,6 +46217,7 @@
 ||telegpzam.work^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegracm.work^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegraemv.work^$dnsrewrite=NOERROR;A;34.102.218.71
+||telegramcs.work^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegrame.work^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegramee.work^$dnsrewrite=NOERROR;A;34.102.218.71
 ||telegramin.work^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -46339,6 +46501,7 @@
 ||jio.goalottery.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||safe.gofferislive.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||golos-za.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||grantiprmsyn.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||groupmyviral.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||guardingentryy.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hakanyagar.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -46489,6 +46652,9 @@
 ||pttbjgov.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pttfewfgov.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pttfewgov.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||pttfewgovr.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||pttfewgovreq.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||pttfwegov.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pttfzwgov.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||pttgrsegov.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||englishtest-stage-7.duolingo.com.id3.putrivpn.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -46825,6 +46991,7 @@
 ||oxnmqo.ztuno.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||linect.ztyrg.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
 ||vbepfw.ztyrg.xyz^$dnsrewrite=NOERROR;A;34.102.218.71
+||clamp.yachts^$dnsrewrite=NOERROR;A;34.102.218.71
 ||decay.yachts^$dnsrewrite=NOERROR;A;34.102.218.71
 ||claim-hadiah-dana.ifflex.yachts^$dnsrewrite=NOERROR;A;34.102.218.71
 ||apklikasi-dana.overstars.yachts^$dnsrewrite=NOERROR;A;34.102.218.71
@@ -46857,6 +47024,7 @@
 ||franscops.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
 ||golden-shield.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
 ||hlengwa.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
+||gejcsvlxv.ifixitfast.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
 ||sacgjdrgb.ifixitfast.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
 ||umxuigcwf.ifixitfast.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
 ||kmsarch.co.za^$dnsrewrite=NOERROR;A;34.102.218.71
