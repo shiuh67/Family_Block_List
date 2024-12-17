@@ -1,9 +1,9 @@
 ! [OpenPhish 釣魚網站]
 ! Title: OpenPhish Counter-Phishing Redirect
-! # Date: 20241217_132157
+! # Date: 20241217_183236
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：56598
+! 網域阻擋列表數目：56597
 ! 阻擋 OpenPhish 釣魚網站列表
 ! https://www.openphish.com/
 ! 
@@ -8986,7 +8986,6 @@
 ||binance-qat.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||binance-spa.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||binance-sv.com^$dnsrewrite=NOERROR;A;34.102.218.71
-||binanceevn.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||binanceinfosecurities.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||binancemegadrop-lista.com^$dnsrewrite=NOERROR;A;34.102.218.71
 ||binanceno.com^$dnsrewrite=NOERROR;A;34.102.218.71
