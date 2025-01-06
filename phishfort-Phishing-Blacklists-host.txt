@@ -1,9 +1,9 @@
 ! [PhishFort 釣魚網站列表]
 ! Title: PhishFort Counter-Phishing Lists Host
-! # Date: 20250106_123032
+! # Date: 20250106_183028
 ! Homepage: https://github.com/shiuh67/Family_Block_List/
 ! 
-! 網域阻擋列表數目：117150
+! 網域阻擋列表數目：117179
 ! 
 !---------------------------------------------------------
 0.0.0.0 looksrare.org.0xfbi
@@ -10556,6 +10556,7 @@
 0.0.0.0 1coinbase.com
 0.0.0.0 1coinswap.com
 0.0.0.0 1e-myetherwallet-zn.com
+0.0.0.0 1einchie.com
 0.0.0.0 1einchs.com
 0.0.0.0 1frags.com
 0.0.0.0 1icnch.com
@@ -10578,6 +10579,7 @@
 0.0.0.0 1inch-airdrops.com
 0.0.0.0 1inch-app.com
 0.0.0.0 1inch-app-exchange.com
+0.0.0.0 1inch-campaign.com
 0.0.0.0 1inch-china.com
 0.0.0.0 1inch-chinese.com
 0.0.0.0 1inch-christmas.com
@@ -10587,8 +10589,10 @@
 0.0.0.0 1inch-crypto.com
 0.0.0.0 1inch-cryptoair.com
 0.0.0.0 1inch-cryptoairdrop.com
+0.0.0.0 1inch-dapp.com
 0.0.0.0 1inch-dex.com
 0.0.0.0 1inch-dexs.com
+0.0.0.0 1inch-distribution.com
 0.0.0.0 1inch-drop.com
 0.0.0.0 1inch-drops.com
 0.0.0.0 www.1inch-drops.com
@@ -46581,6 +46585,7 @@
 0.0.0.0 safstarpaye.com
 0.0.0.0 safuu-give.com
 0.0.0.0 safuu-launchpad.com
+0.0.0.0 safwaonl.com
 0.0.0.0 saga-solanamobile.com
 0.0.0.0 saga-xyz.com
 0.0.0.0 sagacruisescareer.com
@@ -47492,6 +47497,7 @@
 0.0.0.0 shop-playboicarti.com
 0.0.0.0 shop-taylorswift.com
 0.0.0.0 shop8888168.com
+0.0.0.0 www.shopcoupangs.com
 0.0.0.0 shopkushfly.com
 0.0.0.0 tiktokasoder.shopordy.com
 0.0.0.0 www.shopper-tiktok.com
@@ -59347,6 +59353,7 @@
 0.0.0.0 1inch-7gf.pages.dev
 0.0.0.0 1inch-airdrop.pages.dev
 0.0.0.0 1inch-app.pages.dev
+0.0.0.0 pr-7831.1inch-io-app.pages.dev
 0.0.0.0 1inch-io-landing-production.pages.dev
 0.0.0.0 1inch-network.pages.dev
 0.0.0.0 1inch-withdrawal.pages.dev
@@ -61257,6 +61264,10 @@
 0.0.0.0 solclaim.pages.dev
 0.0.0.0 soldrop.pages.dev
 0.0.0.0 solve-trust.pages.dev
+0.0.0.0 sonicc-abm.pages.dev
+0.0.0.0 soniclabs-com.pages.dev
+0.0.0.0 soniclabs-du2.pages.dev
+0.0.0.0 soniclabstoken-xyz.pages.dev
 0.0.0.0 sonikchain.pages.dev
 0.0.0.0 soniktokenfix.pages.dev
 0.0.0.0 spaceprotol.pages.dev
@@ -71207,6 +71218,7 @@
 0.0.0.0 app-trezor-cdn.github.io
 0.0.0.0 appaave.github.io
 0.0.0.0 appbitkub-th.github.io
+0.0.0.0 auth-docs-trezor.github.io
 0.0.0.0 auth-en-io-trezor.github.io
 0.0.0.0 auth-io-start-trezor.github.io
 0.0.0.0 auth-io-trezor.github.io
@@ -71217,6 +71229,7 @@
 0.0.0.0 auth-suite-io-trezor.github.io
 0.0.0.0 auth-trezor.github.io
 0.0.0.0 auth-trezor-cloud.github.io
+0.0.0.0 auth-trezor-start.github.io
 0.0.0.0 axiee-infinity.github.io
 0.0.0.0 axieinfi-nity.github.io
 0.0.0.0 axieinfinty.github.io
@@ -71290,12 +71303,15 @@
 0.0.0.0 docs-io-trezorstart.github.io
 0.0.0.0 docs-live-trezor.github.io
 0.0.0.0 docs-mew.github.io
+0.0.0.0 docs-start-terzor.github.io
+0.0.0.0 docs-strt-trezor.github.io
 0.0.0.0 docs-suite-trezor-cdn.github.io
 0.0.0.0 docs-suite-trezr-app.github.io
 0.0.0.0 docs-suitetrezr-en.github.io
 0.0.0.0 docs-support-trezor.github.io
 0.0.0.0 docs-treezr-cdn.github.io
 0.0.0.0 docs-trenzor-suite-cdn.github.io
+0.0.0.0 docs-treuzir.github.io
 0.0.0.0 docs-trezar.github.io
 0.0.0.0 docs-trezo.github.io
 0.0.0.0 docs-trezor-app-cdn.github.io
@@ -71372,6 +71388,7 @@
 0.0.0.0 eth-free.github.io
 0.0.0.0 ethgive.github.io
 0.0.0.0 faq-docs-trezor.github.io
+0.0.0.0 faq-terzor.github.io
 0.0.0.0 faq-trezor.github.io
 0.0.0.0 faq-trezor-docs.github.io
 0.0.0.0 fastauthsync.github.io
@@ -71410,6 +71427,7 @@
 0.0.0.0 helpus-start-trezor.github.io
 0.0.0.0 henglib.github.io
 0.0.0.0 hibamen.github.io
+0.0.0.0 home-iostart-trezr.github.io
 0.0.0.0 home-trezor-en.github.io
 0.0.0.0 home-trezor-eng.github.io
 0.0.0.0 howsty-takenes-gifts.github.io
@@ -71491,6 +71509,7 @@
 0.0.0.0 myabl.github.io
 0.0.0.0 myetherwwllet.github.io
 0.0.0.0 n-io-trezor.github.io
+0.0.0.0 new-eng-trezor.github.io
 0.0.0.0 new-join.github.io
 0.0.0.0 new-trezer.github.io
 0.0.0.0 new-trezor-docs.github.io
@@ -71577,15 +71596,19 @@
 0.0.0.0 stakeverse.github.io
 0.0.0.0 staking-0lz83.github.io
 0.0.0.0 staking-wftrw.github.io
+0.0.0.0 start-cd-trezor.github.io
 0.0.0.0 start-docs-trizor.github.io
+0.0.0.0 start-docs-trizur.github.io
 0.0.0.0 start-en-ttrezor.github.io
 0.0.0.0 start-home-trizor.github.io
 0.0.0.0 start-hub-trezor.github.io
 0.0.0.0 start-io-s-trezor.github.io
+0.0.0.0 start-io-trzor.github.io
 0.0.0.0 start-iotrezor.github.io
 0.0.0.0 start-m-trezar.github.io
 0.0.0.0 start-m-trzor.github.io
 0.0.0.0 start-org-trezor.github.io
+0.0.0.0 start-set-trezor.github.io
 0.0.0.0 start-trazer.github.io
 0.0.0.0 start-trezor-view.github.io
 0.0.0.0 start-ttrezor.github.io
@@ -71607,6 +71630,7 @@
 0.0.0.0 suiteiotrezor.github.io
 0.0.0.0 support-treaz-docs.github.io
 0.0.0.0 support-trezor-staking.github.io
+0.0.0.0 support-trezorio.github.io
 0.0.0.0 sushi-swapsushi.github.io
 0.0.0.0 sushipwap.github.io
 0.0.0.0 sushisvep.github.io
@@ -71650,6 +71674,7 @@
 0.0.0.0 unlock-me.github.io
 0.0.0.0 up-set-trezor-suite.github.io
 0.0.0.0 us-site-trezor.github.io
+0.0.0.0 us-start-trezer.github.io
 0.0.0.0 usdc-r9kaq.github.io
 0.0.0.0 usdc-x828c.github.io
 0.0.0.0 user-trezor-en.github.io
@@ -73279,6 +73304,7 @@
 0.0.0.0 www.gitlab.auth.root.dappradar.is
 0.0.0.0 doodles.is
 0.0.0.0 mint.fractai.is
+0.0.0.0 tazorwallat.fwh.is
 0.0.0.0 giveaway.is
 0.0.0.0 ico-telegram.is
 0.0.0.0 looksrare.is
@@ -93511,6 +93537,7 @@
 0.0.0.0 solutionnode.org
 0.0.0.0 web.solvedapp.org
 0.0.0.0 solveerror.org
+0.0.0.0 sonicdrop.org
 0.0.0.0 sosipay.org
 0.0.0.0 sousafinancial.org
 0.0.0.0 southpacificmissions.org
@@ -96849,6 +96876,7 @@
 0.0.0.0 myetherwallet.rest
 0.0.0.0 pancakeswap.rest
 0.0.0.0 paxful.rest
+0.0.0.0 polsop.rest
 0.0.0.0 raydium.rest
 0.0.0.0 update.roninwallet.rest
 0.0.0.0 soexchange.rest
@@ -105547,6 +105575,7 @@
 0.0.0.0 hiccup.pancakeswap.tools
 0.0.0.0 pancakeswapwallet.tools
 0.0.0.0 polkastarter.tools
+0.0.0.0 swap.reservoir.tools
 0.0.0.0 revoke.tools
 0.0.0.0 revokecash.tools
 0.0.0.0 sal-mining.tools
